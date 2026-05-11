@@ -64,8 +64,65 @@ Foreign Keys are used to maintain database integrity.
 ---
 
 ## 📥 Data Import
+## 📄 SQL File
 
+Main SQL project file:
+
+- online_bookstore.sql
+
+GitHub SQL File Link:
+https://github.com/Laxmikaur/Online-Bookstore-Project-SQL-Server/blob/main/online_bookstore%20-%20Copy.sql
 CSV files are imported using: 
 
 ```sql
 BULK INSERT
+
+Imported files:
+Books.csv
+Customers.csv
+Orders.csv
+
+📊 Features & SQL Queries
+Basic Queries
+Retrieve books by genre
+Find books published after a specific year
+Show customer details by country
+Calculate total stock
+Find most expensive book
+Retrieve orders above specific amount
+Advanced Queries
+Total books sold per genre
+Average book price by genre
+Customers with multiple orders
+Most frequently ordered book
+Top expensive fantasy books
+Revenue calculations
+Remaining stock after orders
+Customer spending analysis
+
+🚀 How to Run
+Open SQL Server Management Studio (SSMS)
+Create database:
+CREATE DATABASE online_bookstore;
+Run all table creation queries
+Import CSV files using BULK INSERT
+Execute SQL queries
+
+📌 Learning Outcomes
+This project helped in understanding:
+
+Database Design
+Primary & Foreign Keys
+SQL Queries
+Aggregate Functions
+Joins
+Group By & Having
+Data Import Techniques
+Real-world Database Management
+
+👨‍💻 Author
+Developed by Laxmi Kaur
+
+https://github.com/Laxmikaur/Online-Bookstore-Project-SQL-Server/blob/main/online_bookstore%20-%20Copy.sql  
+
+online-bookstore-sql-project
