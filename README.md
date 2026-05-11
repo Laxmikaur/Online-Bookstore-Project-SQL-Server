@@ -70,17 +70,23 @@ Main SQL project file:
 
 - online_bookstore.sql
 
-GitHub SQL File Link:
+GitHub SQL Solution File Link:
 https://github.com/Laxmikaur/Online-Bookstore-Project-SQL-Server/blob/main/online_bookstore%20-%20Copy.sql
 CSV files are imported using: 
 
 ```sql
 BULK INSERT
 
-Imported files:
-Books.csv
-Customers.csv
-Orders.csv
+## 📂 Dataset Files
+
+### 📘 Books Dataset
+https://github.com/Laxmikaur/Online-Bookstore-Project-SQL-Server/blob/main/Books.csv
+
+### 👥 Customers Dataset
+https://github.com/Laxmikaur/Online-Bookstore-Project-SQL-Server/blob/main/Customers.csv
+
+### 🛒 Orders Dataset
+https://github.com/Laxmikaur/Online-Bookstore-Project-SQL-Server/blob/main/Orders.csv
 
 📊 Features & SQL Queries
 Basic Queries
